@@ -10,4 +10,4 @@
 
 **我的 Codeforces 账号**
 
-[![InHng](https://img.shields.io/badge/InHng-Specialist%201405-cyan?style=for-the-badge)](https://codeforces.com/profile/InHng)
+[![InHng](https://img.shields.io/badge/InHng-Specialist%201516-cyan?style=for-the-badge)](https://codeforces.com/profile/InHng)

@@ -6,7 +6,7 @@
 
 **我的 Leetcode 账号**
 
-[![InHng](https://img.shields.io/badge/InHng-1914-violet?style=for-the-badge)](https://leetcode.cn/u/inhng/)
+[![InHng](https://img.shields.io/badge/InHng-1914-9A0A9D?style=for-the-badge)](https://leetcode.cn/u/inhng/)
 
 **我的 Codeforces 账号**
 

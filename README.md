@@ -13,3 +13,5 @@
 **我的 Codeforces 账号**
 
 [![InHng](https://img.shields.io/badge/InHng-Expert%201662-0006FA?style=for-the-badge)](https://codeforces.com/profile/InHng)
+
+**算法资料见**:[algorithm_pdfs](https://github.com/InHng/algorithm_pdfs)

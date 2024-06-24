@@ -16,6 +16,4 @@
 
 **算法资料见**: [algorithm_learning](https://github.com/InHng/algorithm_pdfs)
 
-[![InHng's GitHub stats](https://github-readme-stats.vercel.app/api?username=InHng&hide=contribs&show_icons=true&count_private=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-
-[![InHng's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InHng&layout=compact&hide=jupyter%20notebook,matlab&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+![InHng's GitHub stats](https://github-readme-stats.vercel.app/api?username=InHng\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)

@@ -15,3 +15,7 @@
 [![InHng](https://img.shields.io/badge/InHng-Expert%201662-0006FA?style=for-the-badge)](https://codeforces.com/profile/InHng)
 
 **算法资料见**: [algorithm_learning](https://github.com/InHng/algorithm_pdfs)
+
+[![InHng's GitHub stats](https://github-readme-stats.vercel.app/api?username=InHng&hide=contribs&show_icons=true&count_private=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
+[![InHng's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InHng&layout=compact&hide=jupyter%20notebook,matlab&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)

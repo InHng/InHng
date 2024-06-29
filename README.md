@@ -8,11 +8,11 @@
 
 **我的 Leetcode 账号**
 
-[![InHng](https://img.shields.io/badge/InHng-1914-9A0A9D?style=for-the-badge)](https://leetcode.cn/u/inhng/)
+[![InHng](https://img.shields.io/badge/InHng-1914-A407A8?style=for-the-badge)](https://leetcode.cn/u/inhng/)
 
 **我的 Codeforces 账号**
 
-[![InHng](https://img.shields.io/badge/InHng-Expert%201662-0006FA?style=for-the-badge)](https://codeforces.com/profile/InHng)
+[![InHng](https://img.shields.io/badge/InHng-Expert%201662-0005FB?style=for-the-badge)](https://codeforces.com/profile/InHng)
 
 **算法资料见**: [algorithm_learning](https://github.com/InHng/algorithm_pdfs)
 

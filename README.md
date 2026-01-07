@@ -15,5 +15,3 @@
 [![InHng](https://img.shields.io/badge/InHng-Expert%201662-0005FB?style=for-the-badge)](https://codeforces.com/profile/InHng)
 
 **算法资料见**: [algorithm_learning](https://github.com/InHng/algorithm_pdfs)
-
-![InHng's GitHub stats](https://github-readme-stats.vercel.app/api?username=InHng\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)

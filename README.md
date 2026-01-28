@@ -8,7 +8,7 @@
 
 **我的 Leetcode 账号**
 
-[![InHng](https://img.shields.io/badge/InHng-1914-A407A8?style=for-the-badge)](https://leetcode.cn/u/inhng/)
+[![InHng](https://img.shields.io/badge/InHng-2066-A407A8?style=for-the-badge)](https://leetcode.cn/u/inhng/)
 
 **我的 Codeforces 账号**
 
